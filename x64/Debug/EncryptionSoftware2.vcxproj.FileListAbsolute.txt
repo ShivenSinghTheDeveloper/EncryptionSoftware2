@@ -1,0 +1,4 @@
+C:\Users\packe\source\repos\EncryptionSoftware2\EncryptionSoftware2\x64\Debug\EncryptionSoftware2.vcxproj.AssemblyReference.cache
+C:\Users\packe\source\repos\EncryptionSoftware2\EncryptionSoftware2\x64\Debug\EncryptionSoftware2.Encryption.resources
+C:\Users\packe\source\repos\EncryptionSoftware2\EncryptionSoftware2\x64\Debug\EncryptionSoftware2.vcxproj.GenerateResource.cache
+C:\Users\packe\source\repos\EncryptionSoftware2\EncryptionSoftware2\x64\Debug\EncryptionSoftware2.vcxproj.CopyComplete
